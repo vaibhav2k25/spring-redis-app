@@ -31,5 +31,5 @@ This is a simple Spring Boot project demonstrating how to use **Redis** as a cac
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/springboot-redis-cache.git
-cd springboot-redis-cache
+https://github.com/vaibhav2k25/spring-redis-app.git
+cd spring-redis-app
